@@ -22,3 +22,9 @@ bundle exec jekyll serve --watch
 ```
 
 Access http://localhost:4000/ to see the blog
+
+Bonjour !
+Merci pour cet excellent cours sur Git et Github, c'est vraiment bien expliqué :)
+Je suis aussi ton cours sur Ruby.
+
+Bonne continuation !
